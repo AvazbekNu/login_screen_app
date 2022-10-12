@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1047140106623",
+    "project_id": "loginklone",
+    "storage_bucket": "loginklone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047140106623:android:3ad20b3e43a5c95d6f5a4a",
+        "android_client_info": {
+          "package_name": "com.example.login_screen_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047140106623-o097lcq7ao7jv89dnuadrcnj0l665h1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEA0Qwuv8ol4_bem6DkeMmKAcGVuVk9Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047140106623-o097lcq7ao7jv89dnuadrcnj0l665h1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
